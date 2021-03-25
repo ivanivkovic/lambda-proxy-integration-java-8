@@ -1,0 +1,1 @@
+# lambda-proxy-integration-java-8
