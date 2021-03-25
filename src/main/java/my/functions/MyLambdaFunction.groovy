@@ -36,9 +36,9 @@ class MyLambdaFunction implements RequestHandler<LambdaProxyRequest, LambdaProxy
         ResponseBody responseBody
 
         try{
-			/**
-			 * My code here
-			 */
+		/**
+		 * My code here
+		 */
         }
         catch(Exception e){
             logger.log("Error in requestHandler method: ${e}")
