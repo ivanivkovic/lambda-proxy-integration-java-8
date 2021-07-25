@@ -1,0 +1,5 @@
+my\pojo\RequestBody.class
+my\function\MyLambdaFunction.class
+my\pojo\LambdaProxyResponse.class
+my\pojo\LambdaProxyRequest.class
+my\pojo\ResponseBody.class

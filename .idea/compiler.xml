@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Groovy-Eclipse" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aws-lambda-test" />
+        <module name="aws-lambda-test (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aws-file-upload" target="1.6" />
+      <module name="aws-file-upload (1)" target="1.5" />
+      <module name="aws-file-upload (2)" target="1.6" />
+      <module name="aws-lambda-test" target="1.6" />
+      <module name="aws-lambda-test (1)" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="GreclipseSettings">
+    <option name="greclipsePath" value="$MAVEN_REPOSITORY$/org/codehaus/groovy/groovy-eclipse-batch/3.0.4-02/groovy-eclipse-batch-3.0.4-02.jar" />
+  </component>
+</project>
